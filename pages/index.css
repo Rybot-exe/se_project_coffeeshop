@@ -2,4 +2,11 @@
   min-width: 1100px;
   max-width: 1100px;
   margin: 0 auto;
+  font-size: 16px;
+  line-height: 20px;
+  font-family: 'Inter', Arial, sans-serif;
+}
+
+.header {
+  font-family: 'Noto Serif', 'Times New Roman', serif;
 }
